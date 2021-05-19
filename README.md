@@ -1,6 +1,6 @@
 # Awesome FE Teams
 
-该仓库专门收集国内前端团队各大厂牌黄页
+该仓库专门收集国内前端梦之队，厂牌黄页，龙虎榜
 
 [Baidu EFE team](https://github.com/ecomfe)
 
