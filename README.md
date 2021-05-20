@@ -15,3 +15,5 @@
 [Alipay](https://github.com/alipay) Ant Group Open Source
 
 [Alibaba](https://github.com/alibaba)
+
+[iQIYI](https://github.com/iqiyi) 爱奇艺
