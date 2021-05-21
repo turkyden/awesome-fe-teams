@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary>🌍 国外前端团队</summary>
+<summary>🌍国外前端团队</summary>
 
 <br /> 
 
