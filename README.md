@@ -1,6 +1,6 @@
 # Awesome FE Teams
 
-该仓库专门收集国内前端梦之队，厂牌黄页，龙虎榜。
+该仓库专门收集国内前端梦之队，厂牌黄页，龙虎榜，欢迎把你们团队的仓库地址收录于此。
 
 <details>
 <summary>国内前端团队 🀄</summary>
@@ -44,7 +44,11 @@
 
 ![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
 
-请自由地享受和参与开源 ❤️
+欢迎把你们团队收录于此，请自由地享受和参与开源 ❤️
+
+```text
+[Your Team](https://github.com/your-team)
+```
 
 ## Stargazers
 
