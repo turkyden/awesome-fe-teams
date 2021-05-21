@@ -5,7 +5,9 @@
 <details>
 <summary>国内前端团队</summary>
 
-<br /> 以下根据修改日期排名：
+<br /> 
+
+> Tips: 以下根据修改日期排名：
 
 [Baidu EFE team](https://github.com/ecomfe)
 
@@ -28,7 +30,9 @@
 <details>
 <summary>国外前端团队</summary>
 
-<br /> 以下根据修改日期排名：
+<br /> 
+
+> Tips: 以下根据修改日期排名：
 
 [Poimandres](https://github.com/pmndrs)
 
