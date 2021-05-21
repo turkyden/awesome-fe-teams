@@ -52,6 +52,6 @@
 
 [![Stargazers repo roster for @Turkyden/awesome-fe-teams](https://reporoster.com/stars/Turkyden/awesome-fe-teams)](https://github.com/Turkyden/awesome-fe-teams/stargazers)
 
-## License
+## LICENSE
 
 [MIT](./LICENSE)
