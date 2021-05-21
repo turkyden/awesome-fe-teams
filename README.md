@@ -4,6 +4,8 @@
 
 ![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)
 
+<img alt="Alibaba" src="https://awesome-fe-teams.vercel.app/api?username=alibaba" />
+
 ```text
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
 ```
