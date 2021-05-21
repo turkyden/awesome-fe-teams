@@ -44,6 +44,8 @@
 
 ![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
 
+请自由地享受和参与开源。
+
 ## ⭐ Stargazers
 
 感谢你的 Star！
@@ -52,4 +54,4 @@
 
 ## License
 
-[MIT](./LICENSE) 请自由地享受和参与开源
+[MIT](./LICENSE)
