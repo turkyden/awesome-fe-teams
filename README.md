@@ -52,6 +52,4 @@
 
 ## License
 
-[MIT](./LICENSE)
-
-请自由地享受和参与开源
+[MIT](./LICENSE) 请自由地享受和参与开源
