@@ -2,6 +2,10 @@
 
 该仓库专门收集国内前端梦之队，厂牌黄页，龙虎榜，欢迎把你们团队的仓库地址收录于此。
 
+```text
+https://awesome-fe-teams.vercel.app/api/hello?name=ddj
+```
+
 <details>
 <summary>国内前端团队 🀄</summary>
 
@@ -35,6 +39,8 @@
 > Tips: 以下仅根据收录日期排名
 
 [Poimandres](https://github.com/pmndrs)
+
+[Vercel](https://github.com/vercel)
 
 </details>
 
