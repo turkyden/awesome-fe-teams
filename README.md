@@ -3,7 +3,7 @@
 该仓库专门收集国内前端梦之队，厂牌黄页，龙虎榜。
 
 <details>
-<summary>国内前端团队</summary>
+<summary>🀄 国内前端团队</summary>
 
 <br /> 
 
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary>国外前端团队</summary>
+<summary>🌍 国外前端团队</summary>
 
 <br /> 
 
