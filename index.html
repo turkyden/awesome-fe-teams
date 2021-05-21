@@ -1,8 +1,14 @@
-import { VercelRequest, VercelResponse } from '@vercel/node';
-import axios from 'axios';
+<!DOCTYPE html>
+<html lang="en">
 
-export const generateSVG = ({ login, name, location, avatar_url }) => {
-  return `
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
   <svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120" fill="none">
     <style>
       .header {
@@ -57,15 +63,15 @@ export const generateSVG = ({ login, name, location, avatar_url }) => {
       <g transform="translate(-48, 14)" >
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="64" height="64">
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" x="0" y="0">
-            <a href="https://github.com/${login}" target="_blank">
+            <a href="https://github.com/alibaba" target="_blank">
               <circle class="stagger" style="animation-delay: 300ms" r="32" cx="32" cy="32" stroke-width="1" stroke="" fill="url(#SvgjsPattern4297)">
-                <title>${name}</title>
+                <title>Alibaba</title>
               </circle>
             </a>
           </svg>
           <defs>
             <pattern x="16" y="16" width="64" height="64" patternUnits="userSpaceOnUse" id="SvgjsPattern4297">
-              <image width="32" height="32" href="${avatar_url}"></image>
+              <image width="32" height="32" href="https://avatars.githubusercontent.com/u/1961952?v=4"></image>
             </pattern>
           </defs>
         </svg>
@@ -74,7 +80,7 @@ export const generateSVG = ({ login, name, location, avatar_url }) => {
       <g transform="translate(0, 0)">
         <g transform="translate(0, 35)">
           <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">>
-            <text x="0" y="0" class="header" data-testid="header">${name}</text>
+            <text x="0" y="0" class="header" data-testid="header">Alibaba</text>
           </g>
         </g>
         <g transform="translate(0, 45)">
@@ -90,32 +96,14 @@ export const generateSVG = ({ login, name, location, avatar_url }) => {
             <svg viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" fill="#6B7280">
               <path fill-rule="evenodd" d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z"></path>
             </svg>
-            <text class="stat light" x="20" y="12.5" fill="#6B7280">${location}</text>
+            <text class="stat light" x="20" y="12.5" fill="#6B7280">Hangzhou, China</text>
           </g>
         </g>
       </g>
     </g>
   </svg>
-  `;
-};
 
-export default async (request: VercelRequest, response: VercelResponse) => {
-  const { username = 'Turkyden' } = request.query;
-  try {
-    const res = await axios.get(`https://api.github.com/users/${username}`, {
-      auth: {
-        username: 'dcb39fc858755f895513',
-        password: '803b0587d11fa32bc2aa553e4827ecb55c9c58fe',
-      },
-    });
 
-    if (res.status === 200) {
-      // response.status(200).json(res.data);
-      // const { avatar_url, login, name, location, blog, email } = res.data;
-      const svg = generateSVG(res.data);
-      response.status(200).send(svg);
-    }
-  } catch (error) {
-    response.status(200).send(error.message);
-  }
-};
+</body>
+
+</html>
