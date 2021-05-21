@@ -1,7 +1,23 @@
 import { VercelRequest, VercelResponse } from '@vercel/node';
 import axios from 'axios';
+import mineType from 'mime-types';
 
-export const generateSVG = ({ login, name, location, avatar_url }) => {
+const getBase64ByURL = async (url) => {
+  try {
+    const response = await axios.get(url, { responseType: 'arraybuffer' });
+    const base64 = Buffer.from(response.data, 'binary').toString('base64');
+    return 'data:' + mineType.lookup(url) + ';base64,' + base64;
+  } catch (e) {
+    return '';
+  }
+};
+
+/**
+ * Generate SVG with data
+ * @param param0
+ * @returns
+ */
+export const generateSVG = async ({ login, name, location, avatar_url }) => {
   return `
   <svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120" fill="none">
     <style>
@@ -65,7 +81,9 @@ export const generateSVG = ({ login, name, location, avatar_url }) => {
           </svg>
           <defs>
             <pattern x="16" y="16" width="64" height="64" patternUnits="userSpaceOnUse" id="SvgjsPattern4297">
-              <image width="32" height="32" href="${avatar_url}"></image>
+              <image width="32" height="32" href="${await getBase64ByURL(
+                avatar_url,
+              )}"></image>
             </pattern>
           </defs>
         </svg>
@@ -112,7 +130,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
     if (res.status === 200) {
       // response.status(200).json(res.data);
       // const { avatar_url, login, name, location, blog, email } = res.data;
-      const svg = generateSVG(res.data);
+      const svg = await generateSVG(res.data);
       response.setHeader('Content-Type', 'image/svg+xml;charset=UTF-8');
       response.status(200).send(svg);
     }
