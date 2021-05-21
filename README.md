@@ -7,7 +7,7 @@
 
 <br /> 
 
-> Tips: 以下根据修改日期排名：
+> Tips: 以下仅根据收录日期排名
 
 [Baidu EFE team](https://github.com/ecomfe)
 
@@ -32,7 +32,7 @@
 
 <br /> 
 
-> Tips: 以下根据修改日期排名：
+> Tips: 以下仅根据收录日期排名
 
 [Poimandres](https://github.com/pmndrs)
 
