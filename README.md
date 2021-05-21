@@ -15,15 +15,15 @@
 
 [ElemeFE](https://github.com/ElemeFE)
 
-[NSFI](https://github.com/NSFI) 网易云商前端
+[NSFI](https://github.com/NSFI)
 
-[Proto Team](https://github.com/ProtoTeam) 蚂蚁集团 - 大数据部 - 数据体验技术
-
-[Alipay](https://github.com/alipay) Ant Group Open Source
+[Proto Team](https://github.com/ProtoTeam)
+  
+[Alipay](https://github.com/alipay)
 
 [Alibaba](https://github.com/alibaba)
 
-[iQIYI](https://github.com/iqiyi) 爱奇艺
+[iQIYI](https://github.com/iqiyi)
   
 </details>
 
