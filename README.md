@@ -38,7 +38,7 @@
 
 </details>
   
-## ❤️ Contributors
+## Contributors
 
 感谢以下贡献者：
 
