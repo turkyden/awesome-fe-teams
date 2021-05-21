@@ -40,18 +40,20 @@
   
 ## ❤️ Contributors
 
-Thanks goes to these people:
+感谢以下贡献者：
 
 ![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
 
-Please Feel free to enjoy and participate in open source!
-
 ## ⭐ Stargazers
 
-Thanks for your star!
+感谢你的 Star！
 
 [![Stargazers repo roster for @Turkyden/awesome-fe-teams](https://reporoster.com/stars/Turkyden/awesome-fe-teams)](https://github.com/Turkyden/awesome-fe-teams/stargazers)
 
 ## License
 
 [MIT](./LICENSE)
+
+遵循 MIT 协议
+
+请自由地享受和参与开源
