@@ -2,7 +2,7 @@
 
 该仓库专门收集国内前端梦之队，厂牌黄页，龙虎榜，欢迎把你们团队的仓库地址收录于此。
 
-[![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
+![Turkyden](https://awesome-fe-teams.vercel.app/api?username=Turkyden)
 
 ```text
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
