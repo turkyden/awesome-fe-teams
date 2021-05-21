@@ -113,6 +113,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
       // response.status(200).json(res.data);
       // const { avatar_url, login, name, location, blog, email } = res.data;
       const svg = generateSVG(res.data);
+      response.setHeader('Content-Type', 'image/svg+xml;charset=UTF-8');
       response.status(200).send(svg);
     }
   } catch (error) {
