@@ -17,3 +17,21 @@
 [Alibaba](https://github.com/alibaba)
 
 [iQIYI](https://github.com/iqiyi) 爱奇艺
+
+## ❤️ Contributors
+
+Thanks goes to these people:
+
+![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
+
+Please Feel free to enjoy and participate in open source!
+
+## ⭐ Stargazers
+
+Thanks for your star!
+
+[![Stargazers repo roster for @Turkyden/awesome-fe-teams](https://reporoster.com/stars/Turkyden/awesome-fe-teams)](https://github.com/Turkyden/awesome-fe-teams/stargazers)
+
+## License
+
+[MIT](./LICENSE)
