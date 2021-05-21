@@ -40,15 +40,17 @@
 
 ## Contributors
 
-感谢以下贡献者：
-
-![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
-
-欢迎 PR 并把你们团队地址收录于此，请自由地享受和参与开源 ❤️
+欢迎 PR 并把你们团队地址收录于此：
 
 ```text
 [Your Team](https://github.com/your-team)
 ```
+
+感谢以下贡献者：
+
+![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
+
+请自由地享受和参与开源 ❤️
 
 ## Stargazers
 
