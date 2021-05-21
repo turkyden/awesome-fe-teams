@@ -48,7 +48,7 @@
 
 ## Stargazers
 
-感谢你的 Star ⭐
+感谢你的 Star 支持 ⭐
 
 [![Stargazers repo roster for @Turkyden/awesome-fe-teams](https://reporoster.com/stars/Turkyden/awesome-fe-teams)](https://github.com/Turkyden/awesome-fe-teams/stargazers)
 
