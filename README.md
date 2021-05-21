@@ -44,7 +44,7 @@
 
 ![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
 
-欢迎把你们团队收录于此，请自由地享受和参与开源 ❤️
+欢迎贡献并把你们团队地址收录于此，请自由地享受和参与开源 ❤️
 
 ```text
 [Your Team](https://github.com/your-team)
