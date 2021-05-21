@@ -3,6 +3,10 @@
 该仓库专门收集国内前端梦之队，厂牌黄页，龙虎榜，欢迎把你们团队的仓库地址收录于此。
 
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
+[![ByteDance](https://awesome-fe-teams.vercel.app/api?username=bytedance)](https://github.com/bytedance)
+[![Tencent](https://awesome-fe-teams.vercel.app/api?username=tencent)](https://github.com/tencent)
+
+复制以下获取你的团队卡片：
 
 ```text
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
