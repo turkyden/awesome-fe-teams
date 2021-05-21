@@ -44,11 +44,11 @@
 
 ![Contributors](https://contrib.rocks/image?repo=Turkyden/awesome-fe-teams)
 
-请自由地享受和参与开源。
+请自由地享受和参与开源 ❤️
 
-## ⭐ Stargazers
+## Stargazers
 
-感谢你的 Star！
+感谢你的 Star ⭐
 
 [![Stargazers repo roster for @Turkyden/awesome-fe-teams](https://reporoster.com/stars/Turkyden/awesome-fe-teams)](https://github.com/Turkyden/awesome-fe-teams/stargazers)
 
