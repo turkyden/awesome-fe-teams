@@ -7,6 +7,7 @@
 [![Tencent](https://awesome-fe-teams.vercel.app/api?username=tencent)](https://github.com/tencent)
 [![Eleme](https://awesome-fe-teams.vercel.app/api?username=eleme)](https://github.com/eleme)
 [![Ant Design](https://awesome-fe-teams.vercel.app/api?username=ant-design)](https://github.com/ant-design)
+[![Ctrip](https://awesome-fe-teams.vercel.app/api?username=ctripcorp)](https://github.com/ctripcorp)
 
 复制以下获取你的团队卡片：
 
