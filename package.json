@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "vercel": "vercel dev",
+    "serve": "vercel dev",
     "start": "umi dev --port 3000",
     "build": "umi build",
     "postinstall": "umi generate tmp",
