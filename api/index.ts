@@ -30,7 +30,7 @@ export const generateSVG = async ({
   public_repos,
 }) => {
   return `
-  <svg xmlns="http://www.w3.org/2000/svg" width="280" height="120" viewBox="0 0 280 120" fill="none">
+  <svg xmlns="http://www.w3.org/2000/svg" width="274" height="110" viewBox="0 0 274 110" fill="none">
     <style>
       .header {
         font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
