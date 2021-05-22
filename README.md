@@ -11,7 +11,7 @@
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
 [![ByteDance](https://awesome-fe-teams.vercel.app/api?username=bytedance)](https://github.com/bytedance)
 [![Tencent](https://awesome-fe-teams.vercel.app/api?username=tencent)](https://github.com/tencent)
-[![Eleme](https://awesome-fe-teams.vercel.app/api?username=eleme)](https://github.com/eleme)
+[![ElemeFE](https://awesome-fe-teams.vercel.app/api?username=elemeFE)](https://github.com/elemeFE)
 [![Ant Design](https://awesome-fe-teams.vercel.app/api?username=ant-design)](https://github.com/ant-design)
 [![Ctrip](https://awesome-fe-teams.vercel.app/api?username=ctripcorp)](https://github.com/ctripcorp)
 [![Iqiyi](https://awesome-fe-teams.vercel.app/api?username=iqiyi)](https://github.com/iqiyi)
