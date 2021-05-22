@@ -5,6 +5,7 @@
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
 [![ByteDance](https://awesome-fe-teams.vercel.app/api?username=bytedance)](https://github.com/bytedance)
 [![Tencent](https://awesome-fe-teams.vercel.app/api?username=tencent)](https://github.com/tencent)
+[![Eleme](https://awesome-fe-teams.vercel.app/api?username=eleme)](https://github.com/eleme)
 
 复制以下获取你的团队卡片：
 
