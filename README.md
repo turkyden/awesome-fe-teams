@@ -11,10 +11,10 @@
 > Tips: 团队卡片的 star 数为动态统计数值，自动调用 api.github 获取
 
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
-[![ByteDance](https://awesome-fe-teams.vercel.app/api?username=bytedance)](https://github.com/bytedance)
 [![Tencent](https://awesome-fe-teams.vercel.app/api?username=tencent)](https://github.com/tencent)
-[![ElemeFE](https://awesome-fe-teams.vercel.app/api?username=elemeFE)](https://github.com/elemeFE)
 [![Ant Design](https://awesome-fe-teams.vercel.app/api?username=ant-design)](https://github.com/ant-design)
+[![ElemeFE](https://awesome-fe-teams.vercel.app/api?username=elemeFE)](https://github.com/elemeFE)
+[![ByteDance](https://awesome-fe-teams.vercel.app/api?username=bytedance)](https://github.com/bytedance)
 [![Ctrip](https://awesome-fe-teams.vercel.app/api?username=ctripcorp)](https://github.com/ctripcorp)
 [![Iqiyi](https://awesome-fe-teams.vercel.app/api?username=iqiyi)](https://github.com/iqiyi)
 
