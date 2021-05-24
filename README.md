@@ -17,7 +17,7 @@
 [![ByteDance](https://awesome-fe-teams.vercel.app/api?username=bytedance)](https://github.com/bytedance)
 [![Ctrip](https://awesome-fe-teams.vercel.app/api?username=ctripcorp)](https://github.com/ctripcorp)
 [![Iqiyi](https://awesome-fe-teams.vercel.app/api?username=iqiyi)](https://github.com/iqiyi)
-[![Baidu ecomfe](https://awesome-fe-teams.vercel.app/api?username=ecomfe)](https://github.com/ecomfe)
+[![Baidu EFE team](https://awesome-fe-teams.vercel.app/api?username=ecomfe)](https://github.com/ecomfe)
 
 <details>
 <summary>国内前端团队 🀄</summary>
