@@ -8,7 +8,7 @@
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
 ```
 
-> Tips: 团队卡片的 star 数为动态统计数值，自动调用 api.github 获取
+> Tips: 团队卡片的 star 数为动态统计数值，自动调用 [api.github](https://api.github.com/) 获取
 
 [![Alibaba](https://awesome-fe-teams.vercel.app/api?username=alibaba)](https://github.com/alibaba)
 [![Tencent](https://awesome-fe-teams.vercel.app/api?username=tencent)](https://github.com/tencent)
